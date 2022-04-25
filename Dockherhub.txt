@@ -1,0 +1,1 @@
+Dockerhub upload: https://hub.docker.com/r/lauxy1/producer 
